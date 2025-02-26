@@ -4,7 +4,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Pessoa[] pessoas = new Pessoa[1];
+        Pessoa[] pessoas = new Pessoa[5];
 
         for (int i = 0; i < pessoas.Length; i++)
         {
@@ -22,10 +22,11 @@ public class Program
             pessoas[i] = new Pessoa(nome, rg, cpf, sexo, idade);
             pessoas[i].Cadastrar();
         }
-
-        pessoas[0].Falar();
-        pessoas[0].Andar();
-        pessoas[0].Morrer();
-
+        for (int i = 0; i < pessoas.Length; i++)
+        {
+            pessoas[i].Falar();
+            pessoas[i].Andar();
+            pessoas[i].Morrer();
+        }
     }
 }
