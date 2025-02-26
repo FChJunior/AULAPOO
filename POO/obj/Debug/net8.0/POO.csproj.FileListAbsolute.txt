@@ -1,0 +1,14 @@
+c:\Users\jnior\Documents\Chagas\POO\bin\Debug\net8.0\POO.exe
+c:\Users\jnior\Documents\Chagas\POO\bin\Debug\net8.0\POO.deps.json
+c:\Users\jnior\Documents\Chagas\POO\bin\Debug\net8.0\POO.runtimeconfig.json
+c:\Users\jnior\Documents\Chagas\POO\bin\Debug\net8.0\POO.dll
+c:\Users\jnior\Documents\Chagas\POO\bin\Debug\net8.0\POO.pdb
+c:\Users\jnior\Documents\Chagas\POO\obj\Debug\net8.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jnior\Documents\Chagas\POO\obj\Debug\net8.0\POO.AssemblyInfoInputs.cache
+c:\Users\jnior\Documents\Chagas\POO\obj\Debug\net8.0\POO.AssemblyInfo.cs
+c:\Users\jnior\Documents\Chagas\POO\obj\Debug\net8.0\POO.csproj.CoreCompileInputs.cache
+c:\Users\jnior\Documents\Chagas\POO\obj\Debug\net8.0\POO.dll
+c:\Users\jnior\Documents\Chagas\POO\obj\Debug\net8.0\refint\POO.dll
+c:\Users\jnior\Documents\Chagas\POO\obj\Debug\net8.0\POO.pdb
+c:\Users\jnior\Documents\Chagas\POO\obj\Debug\net8.0\POO.genruntimeconfig.cache
+c:\Users\jnior\Documents\Chagas\POO\obj\Debug\net8.0\ref\POO.dll
